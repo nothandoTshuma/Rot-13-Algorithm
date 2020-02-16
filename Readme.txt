@@ -14,7 +14,7 @@ After this, you need to run the main class, in order to get the program running.
 Contributions were all made by myself, Nothando Tshuma.
 
 Below is a link to the github repository with the same version of the algorithm:
-
+https://github.com/nothandoTshuma/Rot-13-Algorithm
 
 
 
